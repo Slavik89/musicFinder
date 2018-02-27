@@ -1,4 +1,4 @@
-from finalProjectR1 import choose, radio_maximum,bbc_radio, lux_fm_radio, capital_fm
+from musicFinder import choose, radio_maximum,bbc_radio, lux_fm_radio, capital_fm
 
 class Navigator():
     condition = True
